@@ -37,19 +37,6 @@
 
 
 //complicated one
-// const express = require('express');
-
-// const app1 = express();
-
-
-// app1.get("/", function(req, res) {
-
-//   res.send("hi");
-// });
-
-// app1.listen(3000, () => {
-//   console.log('Server is running on http://localhost:3000');
-// });
 const express = require('express');
 
 const app2 = express();
